@@ -2,7 +2,7 @@
 
 These are the instructions to run the project...
 
-1.Download the weights from --->wget https://pjreddie.com/media/files/yolov3.weights
+1.Run--->wget https://pjreddie.com/media/files/yolov3.weights
 
 2.Run --->python convert.py model_data/yolov3.cfg model_data/yolov3.weights model_data/yolo_weights.h5
 
